@@ -1,0 +1,536 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&vertical_info=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&advert_count=0&correction=1&search_hash_id=5f82b96d1686b7c9cf6377dd28ad35dc&q=%E4%B8%96%E7%95%8C%E6%9D%AF&limit=10&t=general&offset=75&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "description": "借此机会，回忆一下自己2002年看<em>世界杯<\/em>时候的经历吧。 2002年正值大学期间，完整的看了中国队的<em>世界杯<\/em>三场比赛。 第一场比赛记得是下午。那一天学校为了照顾大家",
+        "title": "看中国队踢<em>世界杯<\/em>是一种怎样的体验？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "借此机会，回忆一下自己2002年看<em>世界杯<\/em>时候的经历吧。 2002年正值大学期间，完整的看了中国队的<em>世界杯<\/em>三场比赛。 第一场比赛记得是下午。那一天学校为了照顾大家",
+        "created_time": 1448366106,
+        "id": "73756373",
+        "voteup_count": 704,
+        "attached_info_bytes": "OmwKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIggyNDkyNTYxOCoINzM3NTYzNzMyBzcyNTI1MjI6CDM3NjEzMzU0SgnkuJbnlYzmna9QAFgBYAGYAQA=",
+        "author": {
+          "url": "https://api.zhihu.com/people/0c5c7afd25f575d091f6162c7b68d42b",
+          "badge": [],
+          "avatar_url": "https://pic3.zhimg.com/50/6924f2a18_s.jpg",
+          "name": "赵乾",
+          "headline": "德国队政委",
+          "url_token": "zhao-gan-90",
+          "type": "people",
+          "id": "0c5c7afd25f575d091f6162c7b68d42b"
+        },
+        "url": "https://api.zhihu.com/answers/73756373",
+        "question": {
+          "url": "https://api.zhihu.com/questions/37613354",
+          "type": "question",
+          "id": "37613354",
+          "name": "看中国队踢<em>世界杯<\/em>是一种怎样的体验？"
+        },
+        "updated_time": 1452749883,
+        "content": "借此机会，回忆一下自己2002年看世界杯时候的经历吧。<br><br>2002年正值大学期间，完整的看了中国队的世界杯三场比赛。<br><br>第一场比赛记得是下午。那一天学校为了照顾大家，把课程都调了，专门空出时间让大家看球。赛前大家早早在寝室里挤在一起，共同迎接这次盛宴。当时大家都认为哥斯达黎加是小组里和中国队实力差不多的对手，加上米卢执教过那里，对他们更了解。所以，对于战胜对手期望还是挺大的。当时大家的理想是：<b>赢哥斯达黎加、少输巴西、逼平土耳其，争取4分出线。其实在那个时候，许多人心中都还是认同当时足协主席闫世铎提出的进一球、得一分、赢一局三步战略的<\/b>。<br><br>那一场中国队的出场阵容我记得最清楚。江津/徐云龙，李玮峰，范志毅，吴承瑛/孙继海，李铁，李霄鹏，马明宇/郝海东，杨晨。这个阵容基本是当时国足最强的阵容。与大家的预想有两点不同，一是舍弃了预选赛中进球最多的祁宏，二是将孙继海推向中场。毕竟我们当时还沉浸在国足十强赛的辉煌中，没有意识到世界杯赛场不同，菱形站位这种阵型已经适应不了这个赛场的防守强度了，在亚洲赛场防守覆盖面积巨大的李铁到了世界杯无法独立承担中场防守任务，所以，中场以防守能力较强的李霄鹏打中路，孙继海打右路，而一直作为孙继海替补的徐云龙做右后卫。<br><br>至今我仍觉得，这场比赛的最初20分钟，可能是世界杯赛场上中国队表现最好的20分钟。在这段时间里，中国队在场面上并不落下风，而且让对方先吃到了黄牌。但转折点很快来了，孙继海被对方铲伤了。这是个意料之外的变故，孙继海个人能力出众，攻守兼备，且与郝海东默契好，当时已经是刚刚升入英超的曼城的主力球员。他受伤后，曲波入替。曲波速度快，但是明显拿不住球，速度优势无从发挥。本来持球能力并不算强的中场逐渐被动，哥斯达黎加渐占上风。<br><br>下半场开始后，哥斯达黎加加大了攻势。60分钟左右，李铁吃到中国队<b>第一张黄牌<\/b>。就是这个机会，对方快罚任意球，经过两脚传递，在禁区前沿，戈麦斯在吴承瑛和范志毅直接的空隙中起脚射门中的。这个球真的让人十分遗憾。<b>它主要暴露的还是中国队大赛经验欠缺的问题。在犯规之后，忘记第一时间盯着对方，且大赛中始终有点紧张，在对方快速反击时候后防配合出现不默契现象<\/b>。这粒进球顿时把大家打进冰窟窿中。<br><br>结果没过几分钟，对方获得角球，一个角球配合后传中，对方一名后卫将球顶进。还记得这时候米卢真打算换上宿茂臻，正给他讲解下步战术时候，场上就又丢了一球。<b>这粒进球明显是因为中国队刚刚丢球，注意力不够集中导致。还是大赛经验不足的体现。<\/b><br><br>随后宿茂臻换下杨晨；到比赛后期，范志毅也受伤了，于根伟入替，中国打三前锋猛攻，但没有什么机会。唯一一次有威胁的机会，是一次角球，李玮峰争到位置，结果却和于根伟顶在了一起……<br><br>那场比赛结束，所有人都梦碎了。<b>大家知道中国队出线已经不可能了。更知道了到国际舞台上，中国队的差距到底有多大。即便与哥斯达黎加这样的三流球队相比，中国队身体不如对方，技术也不算比对方好，场上经验也不如<\/b>。<br><br>这一场比赛后，当时国际媒体普遍将其认为是该届世界杯第一轮小组赛中<b>最乏味的一场<\/b>，无论两队实力还是场面都让人昏昏欲睡。而国内媒体则哀鸿一片，大家都知道，<b>小组出线的梦碎了<\/b>。<br><br>第二场对巴西。这一场比赛谁都没有指望能不输，关键是输多少问题。那一届巴西队预选赛打的非常艰难，三易主帅；小组赛第一场对土耳其赢的也非常艰难，还是靠里瓦尔多的假摔罚下对方一人勉强取胜的。但是，从打中国队开始，巴西队找回了王者的感觉，此后低开高走，一路过关斩将夺得冠军。<br><br>这场比赛巴西进了四个球，卡洛斯、里瓦尔多、大罗、小罗，3R唯一一场全部进球，卡洛斯也打入那届世界杯唯一进球。给人印象最深的是卡洛斯打入的第一粒入球。当时巴西队获得任意球机会，中国队排好人墙，李铁本想向前干扰，卡洛斯突然不助跑了，摆了一下手，李铁以为对方还要调整，就呆在原地。就那么个空挡，卡洛斯突然又起跑打门，江津鞭长莫及。这粒进球一方面还是体现中国队经验不足，卡洛斯这种老油条一个小伎俩就把中国队弄出空隙了；二来就是为见世面的中国队被卡洛斯的任意球绝技惊呆了，后来采访中中国队球员都表示没见过这么快的球速这么大的力量。<br><br>不过巴西队的风格从来都是领先后放松的。所以进了四球后巴西也没有拼命进攻了，个人粘球情况增加，且防守疏漏也不少。很多人遗憾肇俊哲那脚门柱，其实当时中国队除了门柱还获得几次直面门将甚至单刀机会，而且这几次机会全都到了队长马明宇脚下，可惜全都打的极不靠谱……<br><br>到比赛结束，一切意料之中。<br><br>两轮战罢，中国队提前出局。最后一场对土耳其成了荣誉之战。<br><br>最后一场大家看球时候心态平静很多，毕竟已经出局了。但是还是期望能够赢下至少平一场，也算捍卫自己荣誉。而土耳其队这一场比赛前是比较焦躁的。因为第二场与哥斯达黎加打成平局，这一场哥斯达黎加面对已经出线的巴西队，一旦平局就将做死土耳其。当然，事后证明，中国队没有实力阻击，巴西队也没有放水，土耳其还是出线成功并最终获得季军。<br><br>那场比赛开始二十多分钟，中国队就丢了两球。这两球杜威都有直接责任。杜威是米卢很喜爱的年轻球员，第一场最后时候范志毅受伤，此后两场比赛杜威都是主力球员。但是，赛场上年轻的杜威明显犯怯，两次失球一次仓促解围没有踢远，一次争顶漏人。<b>平心而论，那届世界杯上中国队的丢球中，没见过大场面导致的经验不足占了相当大的成分<\/b>。土耳其很快就取得了想要的结果，随后的比赛双方就减慢的速度，等着另一边的赛况。<br><br>这一场比赛的下半场还有两件让人难忘的事。一件是郝海东边路传中，杨晨抢射中柱。中国队第二次打中门柱，与进球差了几厘米。另一件事就是替补上场的邵佳一飞铲对方被裁判直接出示红牌，中国队收获了世界杯上<b>第一张红牌<\/b>。不过我还记得一件小事，就是杨璞一次突入对方禁区摔倒，被裁判判假摔……也算中国队世界杯上第一次假摔，不过杨璞应该更多不是故意的，还是扛不住对方摔倒的。<br><br>比赛到了尾声，土耳其又打进中国一球。<b>中国队三战共丢九球，世界杯征程结束。<\/b><br><br>那届世界杯，对于中国球迷来说，是希望最高峰跌落的一刻。在此之前，中国队历史性的打入世界杯，让大家真的认为中国足球站起来了，但到了国际舞台上才发现，真的需要走的路还太长了。此后，由于中国队战绩的一步步下滑及网络时代的开启，中国男足迅速走向被娱乐被调侃的道路，以至于后来人们谈起02年打进世界杯时候，也更多爱强调抽签优势而刻意贬低中国队实力。<b>但平心而论，这届世界杯中国队的表现并不能说一无是处<\/b>。中国队当时的实力在亚洲不能说差，米卢的调教也确实让国家队发挥出自己的最高水平。<b>到了国际舞台上，中国队遇到更高的高手，表现出自己经验生疏、无所适从一面，放大了自己本身的弱点。<\/b>但小组赛这三个对手，一个冠军一个季军一个17名（哥斯达黎加最后排名是未出线球队中最高的）——<u>注：哥斯达黎加应为19名，经评论区 <a data-hash=\"0edc92ec903d117aebb9f3ed3e3e7a94\" href=\"https://www.zhihu.com/people/0edc92ec903d117aebb9f3ed3e3e7a94\" class=\"member_mention\" data-hovercard=\"p$b$0edc92ec903d117aebb9f3ed3e3e7a94\">@百式之零<\/a> 提醒修正 <\/u>，中国队打不过不能说多么丢人。<b>更重要的是，那届世界杯后，中国队留下的阵容其实非常合理，老中青三代年龄结构正好。如果此后中国足球没有那么多乱七八糟的事情，让这么一支阵容按照原有轨迹发展，加上本届世界杯积累的大赛经验，未必不能一步步往上走<\/b>。要知道，日本韩国最初的几次世界杯征程，也都是三战皆墨的，人家能持续积累，最终获得突破。而中国队缺少的恰恰是这个积累。<br><br>该届世界杯最终中国队排名31。大家后来调侃，感谢德国，感谢沙特，让中国队没有垫底。想想也是心酸。但当时没人意识到，更心酸的远在后面呢。世界杯结束后不久，记得一次采访李玮峰，当问到觉得自己以后是否还能踢世界杯时候，当时还是国足中生代的李玮峰说：当然能，自己的年纪打2006、2010世界杯都没问题，中国队这是出线的开始，以后有了经验，实力也更强，一定会连续进入并像日韩那样成绩越来越好的。<br><br>我们也都这么认为，没想到李玮峰再进世界杯的梦想最终破灭，而我们最终有一天，想看一场12强赛居然都不可得……",
+        "comment_count": 115,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 69
+    },
+    {
+      "highlight": {
+        "description": "现在国家队水平已经远远落后于俱乐部水平。最明显的就是最近三届<em>世界杯<\/em>的冠军得主都是以本国联赛的冠军班底为主力打造的。欧冠八强假如和<em>世界杯<\/em>冠军进行比赛的，<em>世界杯<\/em>冠军是没有多大机会取得胜利的，更遑论欧冠冠军了",
+        "title": "<em>世界杯<\/em>决赛看着很弱，难道是我太naive？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "现在国家队水平已经远远落后于俱乐部水平。最明显的就是最近三届<em>世界杯<\/em>的冠军得主都是以本国联赛的冠军班底为主力打造的。欧冠八强假如和<em>世界杯<\/em>冠军进行比赛的，<em>世界杯<\/em>冠军是没有多大机会取得胜利的，更遑论欧冠冠军了",
+        "created_time": 1439522587,
+        "id": "59143028",
+        "voteup_count": 8,
+        "attached_info_bytes": "OmwKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIggxOTA2NjMxMyoINTkxNDMwMjgyBzE5NzM3OTY6CDI0NDc5NjIxSgnkuJbnlYzmna9QAFgBYAGYAQA=",
+        "author": {
+          "url": "https://api.zhihu.com/people/68494925d0a0268ea2abd571ea2ce89e",
+          "badge": [],
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "name": "huai shi",
+          "headline": "",
+          "url_token": "shihuaimingjun",
+          "type": "people",
+          "id": "68494925d0a0268ea2abd571ea2ce89e"
+        },
+        "url": "https://api.zhihu.com/answers/59143028",
+        "question": {
+          "url": "https://api.zhihu.com/questions/24479621",
+          "type": "question",
+          "id": "24479621",
+          "name": "<em>世界杯<\/em>决赛看着很弱，难道是我太naive？"
+        },
+        "updated_time": 1439522647,
+        "content": "这种感觉是对的。现在国家队水平已经远远落后于俱乐部水平。最明显的就是最近三届世界杯的冠军得主都是以本国联赛的冠军班底为主力打造的。欧冠八强假如和世界杯冠军进行比赛的，世界杯冠军是没有多大机会取得胜利的，更遑论欧冠冠军了。这是由于俱乐部巨大的投入以及制度造成的。俱乐部可以根据需要选择合适的人，而国家队则对短板没有选择。另外俱乐部的球员天天待在一起训练，队友在什么时候出现在什么位置闭着眼睛都知道，国家队则可能一年到头都见不了几面。所以世界杯（其他杯赛也是）大多数都是以防守反击为主，只有像西班牙、德国这样的国家才敢进攻。现在世界杯荣誉上第一无疑，竞技水平已经大大落后。在亚洲也差不多，比如恒大就可以吊打亚洲各国球队（可能日韩澳比较吃力，赢下来没问题）。",
+        "comment_count": 2,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 70
+    },
+    {
+      "highlight": {
+        "description": "<em>世界杯<\/em>扩军到48支球队，这是<em>世界杯<\/em>几十年历史上又一次重大变革。中国队到底是不是真正的受益者呢？下面聊一聊扩军的斗争始末、赛制变化、名额分配以及对中国队产生的各种影响",
+        "title": "<em>世界杯<\/em>扩军至 48 支球队，中国队能打进<em>世界杯<\/em>了吗？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 9,
+          "type": "thumbnail_info",
+          "thumbnails": [
+            {
+              "url": "https://pic4.zhimg.com/80/v2-fc4e2db4617af6f89ddafa3b12170274_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic1.zhimg.com/80/v2-242abc3feb482760cf26b3c975063534_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic2.zhimg.com/80/v2-f0da31464634334ebcd1465e184fde41_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic4.zhimg.com/80/v2-df0c1ae4ddf392a9e34eb9591bc8ec97_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            }
+          ]
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "<em>世界杯<\/em>扩军到48支球队，这是<em>世界杯<\/em>几十年历史上又一次重大变革。中国队到底是不是真正的受益者呢？下面聊一聊扩军的斗争始末、赛制变化、名额分配以及对中国队产生的各种影响",
+        "created_time": 1484212456,
+        "id": "140609076",
+        "voteup_count": 250,
+        "attached_info_bytes": "Om4KC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgg1MTc3MTM5MyoJMTQwNjA5MDc2MggxNDA2NzIzMToINTQ2MTgwNzNKCeS4lueVjOadr1AAWAFgAZgBAA==",
+        "author": {
+          "url": "https://api.zhihu.com/people/599c04b76cf9ef3247560f66647c5a2d",
+          "badge": [],
+          "avatar_url": "https://pic4.zhimg.com/50/v2-3e732deb503059907e0d848da8ff3319_s.jpg",
+          "name": "搜达足球",
+          "headline": "足球数据专家",
+          "url_token": "sou-da-zu-qiu-62",
+          "type": "people",
+          "id": "599c04b76cf9ef3247560f66647c5a2d"
+        },
+        "url": "https://api.zhihu.com/answers/140609076",
+        "question": {
+          "url": "https://api.zhihu.com/questions/54618073",
+          "type": "question",
+          "id": "54618073",
+          "name": "<em>世界杯<\/em>扩军至 48 支球队，中国队能打进<em>世界杯<\/em>了吗？"
+        },
+        "updated_time": 1484212773,
+        "content": "<p>世界杯扩军到48支球队，这是世界杯几十年历史上又一次重大变革。中国队到底是不是真正的受益者呢？下面聊一聊扩军的斗争始末、赛制变化、名额分配以及对中国队产生的各种影响。<\/p><p><b>世界杯扩军，一次漫长的争斗<\/b><\/p><p>自从1930年第一届世界杯至今，世界杯已经经历过数次扩军。世界杯之所以扩军至48队，其实伏笔已经埋下了很多年。<\/p><p>在当初只有16支球队参加的世界杯期间，预选赛阶段欧洲有9.5个名额，南美有3.5个，中北美与非洲各1个名额，亚洲和大洋洲各0.5个名额。<\/p><p>等到1982年世界杯扩军到24支球队时，欧洲名额上升到14个，此后多年，连续两届国际足联主席阿维兰热和布拉特不断在游说欧洲缩减名额，分给实力不断增强的非洲和亚洲球队。<\/p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-fc4e2db4617af6f89ddafa3b12170274_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fc4e2db4617af6f89ddafa3b12170274_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='237'&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fc4e2db4617af6f89ddafa3b12170274_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fc4e2db4617af6f89ddafa3b12170274_b.jpg\"><\/figure><p>1998年世界杯扩军至32队，之后国际足联主席布拉特一直希望给非洲和亚洲争取更多名额，欧洲在最近三届世界杯上均只有13个出线名额（除东道主外），这让欧足联非常不满。<\/p><p>2013年，布拉特公开表示，非足联和亚足联总共有100个会员，但非洲才5个世界杯席位，亚洲只有4.5个，这不公平，欧洲应该让出名额。<\/p><p>当时的欧足联主席普拉蒂尼强烈反对，同时建议，为了保证公平性，应对世界杯再一次扩军，从32支球队变成40支球队。普拉蒂尼认为，扩军到40队，只会增加3个比赛日，但可以满足欧亚非三大洲的利益。<\/p><p>而布拉特对普拉蒂尼的建议并不支持，双方各退一步，此后的2018年、2022年世界杯没有扩军，欧洲也没有被削减名额，继续执行32支球队目前的名额分配办法。<\/p><p>2015年，布拉特丑闻东窗事发，国际足联进入空窗期，需要一位新主席。之前担任欧足联秘书长多年的瑞士人因凡蒂诺组织了一个强大的竞选团，在短短的三个多月时间里，先后亲自到70个多国家和地区、会晤了150个会员协会的领导，最终在2016年2月成功当选国际足联主席，而他在竞选期间的核心言论之一，就是要让世界杯扩军到40支球队；此前，在担任欧足联秘书长期间，正是因为他的积极推动，欧洲杯最终在2016年扩军到24支球队。<\/p><p>因凡蒂诺的上任，得到了非洲、亚洲以及美洲众多会员协会的大力支持，因此，也必须要有回报，此后因凡蒂诺多次在公开场合强调，足球不仅仅是欧洲和南美洲的，而是全世界的，世界杯应该扩军到40支球队，给亚非球队更多的机会。<\/p><p>之后，由于40支球队很难安排赛制，国际足联内部出现了40队和48队两个不同的扩军方案，至此，世界杯扩军已经没有任何疑问，只是扩军到多少支球队的问题了。<\/p><p>最终，FIFA执委会一致同意了48队的世界杯扩军方案。<\/p><p><b>扩军到48队，赛制将有所变化<\/b><\/p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-242abc3feb482760cf26b3c975063534_b.jpg\" data-rawwidth=\"561\" data-rawheight=\"121\" class=\"origin_image zh-lightbox-thumb\" width=\"561\" data-original=\"https://pic1.zhimg.com/v2-242abc3feb482760cf26b3c975063534_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='561'%20height='121'&gt;&lt;/svg&gt;\" data-rawwidth=\"561\" data-rawheight=\"121\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"561\" data-original=\"https://pic1.zhimg.com/v2-242abc3feb482760cf26b3c975063534_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-242abc3feb482760cf26b3c975063534_b.jpg\"><\/figure><p>在32支球队参加的世界杯里，一届大赛共有64场比赛，其中48场是小组赛。<\/p><p>按照目前的扩军方案，新版48支球队将分成16个小组，每个小组3支球队，前两名出线，变成32强，然后再进行淘汰赛，小组赛阶段依然有48场比赛，之后多了16场淘汰赛，总比赛合计80场。<\/p><p>这不是世界杯第一次改变赛制。<\/p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-f0da31464634334ebcd1465e184fde41_b.jpg\" data-rawwidth=\"453\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb\" width=\"453\" data-original=\"https://pic2.zhimg.com/v2-f0da31464634334ebcd1465e184fde41_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='453'%20height='246'&gt;&lt;/svg&gt;\" data-rawwidth=\"453\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"453\" data-original=\"https://pic2.zhimg.com/v2-f0da31464634334ebcd1465e184fde41_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f0da31464634334ebcd1465e184fde41_b.jpg\"><\/figure><p>实际上，世界杯每次扩军之后，总会伴随着赛制的变化，赛制改变，最主要的作用，是为了迎合电视转播、球票销售、赞助商等一系列经济利益，以图让利益最大化。<\/p><p>现在推出的这个16组分组的方案，是否一定会使用，可能还有一个博弈的过程。扩军之后带来的最大影响，就是竞争越来越低，小组赛阶段的比赛双方强弱差距可能会变得太过悬殊，从而导致比赛质量下降，国际足联肯定会在赛制上再做权衡，让比赛更有观赏性。<\/p><p><b>扩军一定利好亚洲？未必！<\/b><\/p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-df0c1ae4ddf392a9e34eb9591bc8ec97_b.jpg\" data-rawwidth=\"571\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"571\" data-original=\"https://pic4.zhimg.com/v2-df0c1ae4ddf392a9e34eb9591bc8ec97_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='571'%20height='280'&gt;&lt;/svg&gt;\" data-rawwidth=\"571\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"571\" data-original=\"https://pic4.zhimg.com/v2-df0c1ae4ddf392a9e34eb9591bc8ec97_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-df0c1ae4ddf392a9e34eb9591bc8ec97_b.jpg\"><\/figure><br><p>世界杯每次扩军，都是一次利益争斗的结果，由于亚洲和非洲拥有相当多的会员足协和相当多的选票，因此，每一位国际足联主席候选人在谋求竞选或者连任时，都会向亚洲和非洲示好，而最简单的办法就是承诺增加世界杯名额。<\/p><p>但等到竞选尘埃落定之后，国际足联主席首先要做的工作，是安抚其他势力。比如1982年世界杯从16支球队扩军到24支球队时，阿维兰热当时的口号是为亚非国家争取更多展示的机会，最终，亚洲只多了1.5个名额，欧洲却多了4.5个名额。<\/p><p>而在1998年世界杯扩军到32支球队时，欧洲的名额为14个（除东道主外），亚洲区名额只涨了1.5个，一直到2002年世界杯，布拉特才又多给了亚洲区1个名额。<\/p><p>因此，这一次扩军至48支球队，虽然一下多了16支球队，但欧洲、南美作为足球水平最强的地区，必然又要瓜分掉不少名额，剩下的名额，亚洲还要与非洲、中北美甚至大洋洲争抢。<\/p><p><b>名额分配，三大指标亚洲都没有优势<\/b><\/p><p>从世界杯决赛圈阶段名额分配的一贯原则来看，要综合考虑各大洲成员足协数量、世界排名前100名的球队数量和具体排名成绩等几大因素，但是每一项亚洲都没有优势可言。<\/p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-e42d2624610c7fcfc0719c9e69b1462a_b.jpg\" data-rawwidth=\"607\" data-rawheight=\"266\" class=\"origin_image zh-lightbox-thumb\" width=\"607\" data-original=\"https://pic3.zhimg.com/v2-e42d2624610c7fcfc0719c9e69b1462a_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='607'%20height='266'&gt;&lt;/svg&gt;\" data-rawwidth=\"607\" data-rawheight=\"266\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"607\" data-original=\"https://pic3.zhimg.com/v2-e42d2624610c7fcfc0719c9e69b1462a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e42d2624610c7fcfc0719c9e69b1462a_b.jpg\"><\/figure><p>首先，从会员数量上看，欧足联一共在国际足联有55个会员，数量最多；非洲足联排名第二，有54个会员，亚足联排在第三。<\/p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-6fe347f822ec46feeb1e636c16e30ea0_b.jpg\" data-rawwidth=\"610\" data-rawheight=\"287\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-6fe347f822ec46feeb1e636c16e30ea0_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='610'%20height='287'&gt;&lt;/svg&gt;\" data-rawwidth=\"610\" data-rawheight=\"287\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-6fe347f822ec46feeb1e636c16e30ea0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6fe347f822ec46feeb1e636c16e30ea0_b.jpg\"><\/figure><p>其次，从成绩上看，按照国际足联2016年各成员年终排名前100，欧足联占了41席，非洲足联有27席，中北美及加勒比地区有12席，而亚足联，只有10席。在这份榜单里，南美足联10个成员全部入围前100。<\/p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-04c732eb113369a3131a12882a7b3ccc_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"310\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-04c732eb113369a3131a12882a7b3ccc_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='310'&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"310\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-04c732eb113369a3131a12882a7b3ccc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-04c732eb113369a3131a12882a7b3ccc_b.jpg\"><\/figure><p>最后，从最好成绩看，欧洲和南美洲分享了世界排名前10的位置，亚洲与两个最主要的竞争对手非洲和中北美及加勒比地区的对比看，中北美及加勒比地区成绩最好，哥斯达黎加、墨西哥的世界排名都在前20名，美国和亚洲最高的伊朗分别排名第28、29位，之后就是一堆非洲军团。由于日本最近排名大幅下滑，韩国勉强排在第37位，为亚洲挽回一点颜面。<\/p><p>因此，综合上述几个重要因素，亚洲想在此次扩军中获得多个名额难度不小，按照主流观点的分析以及亚洲目前在32个席位里的占比，估计亚洲最有可能增加2-3个名额，达到6.5到7.5个决赛圈名额。<\/p><p><b>扩军一定利好中国？也未必！<\/b><\/p><p>如果认为世界杯扩军，中国队就一定稳进世界杯，那肯定不现实。<\/p><p>名额再多，成绩也是第一位的。<\/p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-f0cfb129595d15f22b47211088d6bc33_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f0cfb129595d15f22b47211088d6bc33_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='272'&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f0cfb129595d15f22b47211088d6bc33_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f0cfb129595d15f22b47211088d6bc33_b.jpg\"><\/figure><p>从国际足联的排名看。国际足联从1993年开始每月公布各成员的排名，期间修正了几次排名积分制度。<\/p><p>中国国家队在1998年曾经到达过第37名的历史最高值，在2002年米卢带队打入世界杯之后，排名最高达到过第50名，之后排名一路下滑，在2004年亚洲杯夺得亚军之后，又反弹到第48位。<\/p><p>之后，国足的世界排名就一路后退，2006年第一次跌出前100，位列第103名；2009年高洪波接手国足时，当时国足位列第108名；高洪波在位的两年多时间里，国足世界排名一路提升，在他下课时，已经排名第69位，提升了39名；但是之后，国足排名又一路下滑，最近几年始终维持在第80名左右的水平。<\/p><p>国际足联的排名至少对于中国队来说，有很强的参考性。<\/p><p>排名在中国队之前的伊朗、韩国、日本、澳大利亚、沙特、乌兹别克、阿联酋，无论哪一支球队，中国队都难求一胜，本届12强赛，中国队已经分别输给韩国和乌兹别克，战平了伊朗。<\/p><p>而排名在中国队之后的卡塔尔、伊拉克等队，跟中国队交锋时是互有胜负。<\/p><p>因此，即使亚洲区名额扩充到7、8个，中国队依然要面临很大的考验，可能真正增加的，是争夺“0.5个名额”的机会，要比4.5个名额时更容易。<\/p><p>0.5个名额，不管在16、24还是32支球队参赛时，都有存在，不是说名额始终不够，而是“0.5个名额”是一种博弈之后搞平衡的斗争结果，属于互相争抢不得、各退一步的做法，因此，即使扩军到48支球队，很可能依然会出现亚洲区有几个完整名额+0.5个名额，与其他大洲争入场券。<\/p><p>然而，假如中国队拿到“0.5名额”，距离进军世界杯看似只差一步，实际上咫尺天涯。<\/p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-a3e04d3285e73cd2e5e00ba502429b43_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-a3e04d3285e73cd2e5e00ba502429b43_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='297'&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-a3e04d3285e73cd2e5e00ba502429b43_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a3e04d3285e73cd2e5e00ba502429b43_b.jpg\"><\/figure><p>因此，中国队如果不能在预选赛中拿到直接出线权，那么，即使拿到0.5个名额，要想真正进军世界杯决赛圈，并不容易。自从1998年世界杯扩军至32队之后，亚洲区最后的“0.5个名额”，只有伊朗在预选赛附加赛靠着客场进球多的优势艰难拿到一张世界杯入场券，之后四届世界杯预选赛附加赛，亚洲区球队全部以失利告终。<\/p>",
+        "comment_count": 124,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 71
+    },
+    {
+      "highlight": {
+        "description": "<em>世界杯<\/em>比欧冠多出的那部分号召力和影响力是伪球迷贡献的",
+        "title": "个人觉得欧冠比<em>世界杯<\/em>实力水平高观赏性强可是为什么号召力影响力远不如<em>世界杯<\/em>？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "<em>世界杯<\/em>比欧冠多出的那部分号召力和影响力是伪球迷贡献的",
+        "created_time": 1407605635,
+        "id": "29000983",
+        "voteup_count": 72,
+        "attached_info_bytes": "OmsKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgc2OTgzMzY0KggyOTAwMDk4MzIHMjEwMDI2MDoIMjQ3OTU3MjFKCeS4lueVjOadr1AAWAFgAZgBAA==",
+        "author": {
+          "url": "https://api.zhihu.com/people/da81d6f08c7c0390efda69bca92c21c0",
+          "badge": [],
+          "avatar_url": "https://pic1.zhimg.com/50/7e929f064_s.jpg",
+          "name": "iwtbarm",
+          "headline": "",
+          "url_token": "iwtbarm",
+          "type": "people",
+          "id": "da81d6f08c7c0390efda69bca92c21c0"
+        },
+        "url": "https://api.zhihu.com/answers/29000983",
+        "question": {
+          "url": "https://api.zhihu.com/questions/24795721",
+          "type": "question",
+          "id": "24795721",
+          "name": "个人觉得欧冠比<em>世界杯<\/em>实力水平高观赏性强可是为什么号召力影响力远不如<em>世界杯<\/em>？"
+        },
+        "updated_time": 1407605635,
+        "content": "世界杯比欧冠多出的那部分号召力和影响力是伪球迷贡献的",
+        "comment_count": 10,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 72
+    },
+    {
+      "highlight": {
+        "description": "优酷邀请国内顶尖巨星鹿晗解说2018俄罗斯<em>世界杯<\/em>，引起数亿观众的尖叫！！！ 2:看完6亿人哭了，中国明星终于扬眉吐气了一会，鹿晗解说<em>世界杯<\/em>，得到各国明星点赞！ 3:不可思议的事实！！！<em>世界杯<\/em>优酷直播点击量超越央视百倍",
+        "title": "如何看待鹿晗解说 2018 俄罗斯<em>世界杯<\/em>？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "优酷邀请国内顶尖巨星鹿晗解说2018俄罗斯<em>世界杯<\/em>，引起数亿观众的尖叫！！！ 2:看完6亿人哭了，中国明星终于扬眉吐气了一会，鹿晗解说<em>世界杯<\/em>，得到各国明星点赞！ 3:不可思议的事实！！！<em>世界杯<\/em>优酷直播点击量超越央视百倍",
+        "created_time": 1528775174,
+        "id": "415620528",
+        "voteup_count": 2206,
+        "attached_info_bytes": "OnAKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgkxMDU2MzczMjIqCTQxNTYyMDUyODIIMjQ2MTcxMDM6CTI4MDUzNDUwOUoJ5LiW55WM5p2vUABYAWABmAEA",
+        "author": {
+          "url": "https://api.zhihu.com/people/8ad1623478c14f0e29e95c992447c0dd",
+          "badge": [],
+          "avatar_url": "https://pic3.zhimg.com/50/v2-a631045cf4391e56f9f4c560c568f21d_s.jpg",
+          "name": "兰陵笑笑生",
+          "headline": "天下第一奇书《金瓶梅》作者？",
+          "url_token": "xie-xie-ni-ai-wo-25",
+          "type": "people",
+          "id": "8ad1623478c14f0e29e95c992447c0dd"
+        },
+        "url": "https://api.zhihu.com/answers/415620528",
+        "question": {
+          "url": "https://api.zhihu.com/questions/280534509",
+          "type": "question",
+          "id": "280534509",
+          "name": "如何看待鹿晗解说 2018 俄罗斯<em>世界杯<\/em>？"
+        },
+        "updated_time": 1528860616,
+        "content": "哈哈，本答案慢慢的从第二名，被踩到30名开外了，看来粉丝不少吗！！！<br><br>妈呀！！！50名以外去了   <br><br>————————原答案:<br><br>1:震惊，惊呆，天呐！！！尖峰对决！！！优酷邀请国内顶尖巨星鹿晗解说2018俄罗斯世界杯，引起数亿观众的尖叫！！！<br><br>2:看完6亿人哭了，中国明星终于扬眉吐气了一会，鹿晗解说世界杯，得到各国明星点赞！<br><br><br>3:不可思议的事实！！！世界杯优酷直播点击量超越央视百倍，全因这个人在直播间！！<br><br><br>4:女子痛哭流涕呐喊！世界杯解说员怎么可以有如此美腻的脸！！！<br><br>5:外国人惊掉下巴，观看世界杯的女性人数在优酷远远超越男性，她们纷纷留言，鹿晗太帅，我爱你，鹿晗,外媒小编在赛场并没有发现此人！！！<br><br>6:你还不知道吧！！俄罗斯世界杯门票在中国被炒到上万元，专业球迷纷纷表示:麻蛋，老子宁肯多花钱去现场看，也不看这脑残直播！！！<br><br><br><br><br><br>未完！！！！待更！！！<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>有人说我无脑黑鹿晗，调侃的太过严重，我只想说，这种标题每天在UC.网易出现无数次，有人还说，我踢球不如鹿晗，我就纳闷啦，比我踢球好的人多了去了，是不是人人都要去解说啊，我并不反感鹿晗，因为我都没看过他的电视剧、电影、歌曲！！！我只是反感粉丝竟然会说世界杯蹭鹿晗的流量！！！真不知道这些NC是真粉丝，还是营销号！！！",
+        "comment_count": 167,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 73
+    },
+    {
+      "highlight": {
+        "description": "德国国内的adidas搞活动，<em>世界杯<\/em>半决赛德国对阵巴西，只要德国进一球，全场商品降价10%。结果。。。。。。",
+        "title": "2014 年<em>世界杯<\/em>最感动你的瞬间是什么？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 1,
+          "type": "thumbnail_info",
+          "thumbnails": [
+            {
+              "url": "https://pic3.zhimg.com/80/00f9d7613c2d70669136acaef585b55e_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            }
+          ]
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "德国国内的adidas搞活动，<em>世界杯<\/em>半决赛德国对阵巴西，只要德国进一球，全场商品降价10%。结果。。。。。。",
+        "created_time": 1405203663,
+        "id": "27894757",
+        "voteup_count": 3260,
+        "attached_info_bytes": "OmsKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgc2NDk3MjMwKggyNzg5NDc1NzIHMTk2MjU0NToIMjQ0NTE2MTFKCeS4lueVjOadr1AAWAFgAZgBAA==",
+        "author": {
+          "url": "https://api.zhihu.com/people/7b0512d66dc88401b82ff18fe287259e",
+          "badge": [],
+          "avatar_url": "https://pic3.zhimg.com/50/v2-f4f5114adfd221f25d4b41a860836b19_s.jpg",
+          "name": "夏昊BFA",
+          "headline": "北影本科 影视摄影师 航拍手 微信公号xiahaobfa",
+          "url_token": "xiahao",
+          "type": "people",
+          "id": "7b0512d66dc88401b82ff18fe287259e"
+        },
+        "url": "https://api.zhihu.com/answers/27894757",
+        "question": {
+          "url": "https://api.zhihu.com/questions/24451611",
+          "type": "question",
+          "id": "24451611",
+          "name": "2014 年<em>世界杯<\/em>最感动你的瞬间是什么？"
+        },
+        "updated_time": 1405203663,
+        "content": "德国国内的adidas搞活动，世界杯半决赛德国对阵巴西，只要德国进一球，全场商品降价10%。结果。。。。。。<br><figure><noscript><img src=\"https://pic3.zhimg.com/00f9d7613c2d70669136acaef585b55e_b.jpg\" data-rawwidth=\"580\" data-rawheight=\"870\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic3.zhimg.com/00f9d7613c2d70669136acaef585b55e_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='580'%20height='870'&gt;&lt;/svg&gt;\" data-rawwidth=\"580\" data-rawheight=\"870\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic3.zhimg.com/00f9d7613c2d70669136acaef585b55e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/00f9d7613c2d70669136acaef585b55e_b.jpg\"><\/figure>",
+        "comment_count": 180,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 74
+    },
+    {
+      "highlight": {
+        "description": "有这样一支球队，为了<em>世界杯<\/em>，可以提前一年从国内运送300吨物资到主办地建造训练基地。他们的营养师，医护人员的能力是全世界最顶尖的，他们甚至连心理医生都有。他们可以让球员在世界杯期间保持一个极佳的身心状态",
+        "title": "2018<em>世界杯<\/em>你看好哪些队伍?"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "有这样一支球队，为了<em>世界杯<\/em>，可以提前一年从国内运送300吨物资到主办地建造训练基地。他们的营养师，医护人员的能力是全世界最顶尖的，他们甚至连心理医生都有。他们可以让球员在世界杯期间保持一个极佳的身心状态",
+        "created_time": 1527515461,
+        "id": "403805357",
+        "voteup_count": 1013,
+        "attached_info_bytes": "OnAKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgkxMDM0ODkzMDIqCTQwMzgwNTM1NzIIMjM5MTAxNjM6CTI3NzM1NTEyMUoJ5LiW55WM5p2vUABYAWABmAEA",
+        "author": {
+          "url": "https://api.zhihu.com/people/34ba7a365ab3eecd7dd3df6f32db5bdb",
+          "badge": [],
+          "avatar_url": "https://pic2.zhimg.com/50/1993a43d6b0113df4488145015085113_s.jpg",
+          "name": "紫色基情",
+          "headline": "做文化传媒的小学生",
+          "url_token": "lou-quan-18",
+          "type": "people",
+          "id": "34ba7a365ab3eecd7dd3df6f32db5bdb"
+        },
+        "url": "https://api.zhihu.com/answers/403805357",
+        "question": {
+          "url": "https://api.zhihu.com/questions/277355121",
+          "type": "question",
+          "id": "277355121",
+          "name": "2018<em>世界杯<\/em>你看好哪些队伍?"
+        },
+        "updated_time": 1527515461,
+        "content": "<p>有这样一支球队，为了世界杯，可以提前一年从国内运送300吨物资到主办地建造训练基地。他们的营养师，医护人员的能力是全世界最顶尖的，他们甚至连心理医生都有。他们可以让球员在世界杯期间保持一个极佳的身心状态。<\/p><p>有这样一支球队，他们有堪比博彩公司的数据分析师，能在赛前把潜在对手所有球员的踢球习惯，生活习惯，甚至家庭矛盾等细节数据了如指掌，并准确传达给教练组成员，继而做出针对性部署，真正做到知己知彼，百战不殆。<\/p><p>有这样一支球队，他们的政府对足球运动的投入力度是全世界最大的，他们的青训人才近十年来从未出现过断档，他们拥有现代足坛最先进的战术理念。<\/p><p>没错，我说的就是德国队。世界杯是一项赛程短而密集的赛事，能否夺冠的关键因素在于稳定的发挥，强大的战术执行力以及先进的战术打法。至于球员天赋，球队纸面实力，俱乐部的比赛可以起决定性作用，但世界杯不一样。近年来的德国人，已经把世界杯当成一个科研课题去做，论重视程度，吊打全世界其他任何一个国家，我始终坚信投入产出比在足球界行得通。所以本届世界杯，我依然看好德国队能成功实现卫冕。<\/p><p><\/p>",
+        "comment_count": 363,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 75
+    },
+    {
+      "highlight": {
+        "description": "然后你就觉得这世上所有国家也一样，可以为了利益恬不知耻地让对手朝自己球门轰七球。 只有了解<em>世界杯<\/em>是多么重要的比赛，了解巴西这个国家的足球历史底蕴，你才知道这样轻描淡写的言论有多狂妄",
+        "title": "2014 年巴西<em>世界杯<\/em>中，巴西与德国的<em>世界杯<\/em>半决赛是假球吗？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "然后你就觉得这世上所有国家也一样，可以为了利益恬不知耻地让对手朝自己球门轰七球。 只有了解<em>世界杯<\/em>是多么重要的比赛，了解巴西这个国家的足球历史底蕴，你才知道这样轻描淡写的言论有多狂妄",
+        "created_time": 1404866937,
+        "id": "27739920",
+        "voteup_count": 367,
+        "attached_info_bytes": "OmsKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgc2NDM0OTU5KggyNzczOTkyMDIHMTk1MTAxMjoIMjQ0MjI4NDRKCeS4lueVjOadr1AAWAFgAZgBAA==",
+        "author": {
+          "url": "https://api.zhihu.com/people/0",
+          "badge": [],
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "name": "匿名用户",
+          "headline": "",
+          "url_token": "",
+          "type": "people",
+          "id": "0"
+        },
+        "url": "https://api.zhihu.com/answers/27739920",
+        "question": {
+          "url": "https://api.zhihu.com/questions/24422844",
+          "type": "question",
+          "id": "24422844",
+          "name": "2014 年巴西<em>世界杯<\/em>中，巴西与德国的<em>世界杯<\/em>半决赛是假球吗？"
+        },
+        "updated_time": 1404912286,
+        "content": "<p>你没去过意大利，没去过苏州，然后就觉得这世上没有塔是斜的。<br><br> 你没去过澳门，然后就说沙滩都是黄色的，没有其他颜色。 <br><br>你没出过城，没看过电视，所以大言不惭地说不可能有人长着黑色的皮肤。<br><br>你坐在井里，觉得天就那么大。然后，你还不准孩子们走出井去看这个世界。 <br><br>你自己没有热血，信任，公平，爱情和梦想，然后还把这种消极灌输给孩子们。当孩子们想要追寻这一切的时候，你只丢下一句冷冷的“天真”，就将之扼杀了。<br><br>当灰姑娘和白马王子两情相悦，你非得跳出来说灰姑娘是为了钱。<br><br>这世界很大，你没见过的东西，不代表就不存在。稀有和不存在，是差之毫厘谬以千里的概念。博学的人谦卑，浅薄的人狂妄。你的国家赌球无下限，然后你就觉得这世上所有国家也一样，可以为了利益恬不知耻地让对手朝自己球门轰七球。<br><br>只有了解世界杯是多么重要的比赛，了解巴西这个国家的足球历史底蕴，你才知道这样轻描淡写的言论有多狂妄。“假球”，只是两个字，你就轻而易举地玷污了这个国家对足球宗教般的情感，抹杀了他们为世界杯这个梦想所付出的努力。一个运动员的黄金岁月只有十来年，大部分人一辈子能参加世界杯不到三次，你知道吗？<br><br><b>哦对了，你有看到巴西队员输后哭成泪人的样子吗？我不相信打假球的人会流泪。戏子就算有眼泪，那也肯定是眼药水。就像玩弄感情的人分手后只会如释重负而不会伤心一样。君不见真心热爱比赛的人，是可以当着全国直播的面，在领奖台上偷笑吗？<\/b><br><br>我想说的是，我们这个国家虽然对足球那样“狂热”，但我们其实还处在足球启蒙的阶段。你不能在对这东西的认识还混沌，只看到海面上浮起的那一角的时候，就给它贴上丑陋的标签。这种态度无利于我们欣赏它的美。我们的孩子，需要通过纯粹竞技的美，去享受和热爱这项运动。<br><br>就算爱情真的很稀有，你也不能在你孩子十五岁情窦初开的时候，就告诉他这世上大部分姑娘跟你恋爱都是看上你的钱吧？<\/p>",
+        "comment_count": 24,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 76
+    },
+    {
+      "highlight": {
+        "description": "俄罗斯<em>世界杯<\/em>就要正式开赛啦，今晚11点，由东道主俄罗斯对阵沙特阿拉伯的揭幕战正式开踢。全世界都在聊的<em>世界杯<\/em>，你插不上话？缺少谈资？只能尬聊？小七今天就给大家奉上一篇球迷速成扫盲",
+        "title": "2018 <em>世界杯<\/em>即将开始，有哪些适合给伪球迷的科普？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 10,
+          "type": "thumbnail_info",
+          "thumbnails": [
+            {
+              "url": "https://pic4.zhimg.com/80/v2-619b111190858b2337d8880c05dd6435_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic4.zhimg.com/80/v2-794ed0bd555644c1be13a4232282ab5a_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic4.zhimg.com/80/v2-ee8aabafcbae71ce7f1138ab2a4ba386_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            },
+            {
+              "url": "https://pic4.zhimg.com/80/v2-7ae5d1203db1c5f32d9ad7c02e806c39_bh.jpg",
+              "data_url": "",
+              "type": "image"
+            }
+          ]
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "俄罗斯<em>世界杯<\/em>就要正式开赛啦，今晚11点，由东道主俄罗斯对阵沙特阿拉伯的揭幕战正式开踢。全世界都在聊的<em>世界杯<\/em>，你插不上话？缺少谈资？只能尬聊？小七今天就给大家奉上一篇球迷速成扫盲",
+        "created_time": 1528904564,
+        "id": "416983796",
+        "voteup_count": 3559,
+        "attached_info_bytes": "OnAKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgkxMDU4ODQ4OTkqCTQxNjk4Mzc5NjIIMjQ2NjUwNjc6CTI4MDc1MDkxOUoJ5LiW55WM5p2vUABYAWABmAEA",
+        "author": {
+          "url": "https://api.zhihu.com/people/7d10f90296ecccbc29ce1f56345a8215",
+          "badge": [],
+          "avatar_url": "https://pic4.zhimg.com/50/v2-abf522588441391f670f9cb048f62555_s.jpg",
+          "name": "小七",
+          "headline": "材料搬砖/爱读书/相信诗/足球/长跑爱好者",
+          "url_token": "FourierX",
+          "type": "people",
+          "id": "7d10f90296ecccbc29ce1f56345a8215"
+        },
+        "url": "https://api.zhihu.com/answers/416983796",
+        "question": {
+          "url": "https://api.zhihu.com/questions/280750919",
+          "type": "question",
+          "id": "280750919",
+          "name": "2018 <em>世界杯<\/em>即将开始，有哪些适合给伪球迷的科普？"
+        },
+        "updated_time": 1528950743,
+        "content": "<p>俄罗斯世界杯就要正式开赛啦，今晚11点，由东道主俄罗斯对阵沙特阿拉伯的揭幕战正式开踢。全世界都在聊的世界杯，你插不上话？缺少谈资？只能尬聊？小七今天就给大家奉上一篇球迷速成扫盲<\/p><p>说明：这篇是写给路人球迷扫盲之用，较为容易接受，请球迷老鸟放我一马。<\/p><p><br><\/p><p>基础篇：<\/p><ul><li>今年世界杯参赛队伍一共32支，除东道主俄罗斯外，其余球队都需要参加预选赛，参赛队伍都是国家队，没有皇马、巴萨和曼联，那些是俱乐部。<\/li><\/ul><p><br><\/p><ul><li>世界杯没有英国队，只有英gay兰队，哦不，英格兰队，英国按几个足协分别派代表队参加世界杯，英伦三岛4支球队，英格兰，苏格兰，威尔士，北爱尔兰，是只有英格兰队获得了去俄罗斯的机会。<\/li><\/ul><p><br><\/p><ul><li>球衣上的星星不是乱绣上去的，一颗星星代表夺得过一次世界杯冠军，目前巴西最多，五次世界杯冠军；德国意大利都是四次，阿根廷两次，西班牙、法国英格兰各一次。（乌拉圭也有两次，但是这个国家在非足球领域被提及较少，萌新球迷最好不聊这个，很有可能把国家名字说错……）<\/li><li>顺带一提，中国队的球衣上也有五颗星星，不过那是五星红旗赋予的荣耀，而且位置在logo上。<\/li><\/ul><figure><noscript><img src=\"https://pic2.zhimg.com/v2-619b111190858b2337d8880c05dd6435_b.jpg\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic2.zhimg.com/v2-619b111190858b2337d8880c05dd6435_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1024'%20height='768'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic2.zhimg.com/v2-619b111190858b2337d8880c05dd6435_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-619b111190858b2337d8880c05dd6435_b.jpg\"><figcaption>五星巴西<\/figcaption><\/figure><ul><li>没有中国队，中国队惟一一次进入世界杯决赛圈是2002年韩日世界杯，当年小组赛三战皆负出局。<\/li><\/ul><p><br><\/p><ul><li>红黄牌制度第一次引入是1970年世界杯，球员恶意犯规会吃到黄牌，甚至红牌，同一场比赛中获得两次黄牌就相当于一次红牌，这个很好理解，就像“迟到三次算一次旷课一样”，得到红牌的球员会被罚下。<\/li><\/ul><p><br><\/p><ul><li>一场比赛可以更换3位球员，方便球员受伤或是体力不支时，换上替补球员。<\/li><\/ul><p><br><\/p><ul><li>一场比赛共90分钟，分上下半场，各45分钟，中场休息15分钟，遇到加时，增加30分钟，点球大战再加若干分钟。足球比赛没有叫暂停一说，但有伤停补时。足球或许有伤停补时，但生活没有，逝者如斯。<\/li><\/ul><p><br><\/p><ul><li>看比赛新闻时，梅开二度指的是一个球员在一场比赛中进两个球（梅开二度真的不是专指梅西进了两个球）帽子戏法是三个球。进四个球叫大四喜，五个可以叫独中五元，那进六个呢？——叫进了六球。<\/li><\/ul><p><br><\/p><ul><li>助攻一般是指，射门得分的球员接到队友传球完成射门，传球队员就记一次助攻，球迷戏称“喂饼”<\/li><\/ul><figure><noscript><img src=\"https://pic3.zhimg.com/v2-794ed0bd555644c1be13a4232282ab5a_b.jpg\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-794ed0bd555644c1be13a4232282ab5a_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='688'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-794ed0bd555644c1be13a4232282ab5a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-794ed0bd555644c1be13a4232282ab5a_b.jpg\"><figcaption>喂饼大户、德国中场厄齐尔<\/figcaption><\/figure><ul><li>世界杯中，球员背后上方印的是他们的名字，西方国家的习惯印的是他们的姓（last name）其他比赛中有可能印上赞助商的广告，关于这一点有一个足球解说韩乔生老师的段子<\/li><\/ul><blockquote>中央电视台，中央电视台，观众朋友们晚上好<br>现在，7号球员夏普分球，传给了9号队员，<br>9号队员也叫夏普，<br>他们可能是兄弟。在足坛活跃着很多兄弟，比如荷兰的德波尔兄弟，爱尔兰的基恩兄弟。好球，这个球传给10号传得非常好。<br><b>咦，10号怎么也叫夏普。<\/b><br>可能是这样的，外国球员印在球衣上的只是姓，这些球员都姓夏普，就像韩国有很多球员都姓朴。<br>漂亮，10号连过两名队员，破门得分，11号上前祝贺，11号是??夏普？！<br>（停顿好大一会）<br>对不起，观众朋友，夏普是印在球衣上赞助商的名字。<\/blockquote><ul><li>C罗、大罗、J罗不是兄弟三个，C罗是葡萄牙球员，克里斯蒂亚诺·罗纳尔多；大罗是巴西球员，已经退役，也叫外星人罗纳尔多；J罗是哥伦比亚球员哈梅斯·罗德里格斯。<\/li><\/ul><figure><noscript><img src=\"https://pic2.zhimg.com/v2-8a89992a16008360ebdf5f9050ce1be9_b.jpg\" data-size=\"normal\" data-rawwidth=\"1131\" data-rawheight=\"635\" class=\"origin_image zh-lightbox-thumb\" width=\"1131\" data-original=\"https://pic2.zhimg.com/v2-8a89992a16008360ebdf5f9050ce1be9_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1131'%20height='635'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1131\" data-rawheight=\"635\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1131\" data-original=\"https://pic2.zhimg.com/v2-8a89992a16008360ebdf5f9050ce1be9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8a89992a16008360ebdf5f9050ce1be9_b.jpg\"><figcaption>从左到右依次为大罗、C罗、J罗<\/figcaption><\/figure><p>进阶篇：<\/p><ul><li>如果你要做德国队球迷请记住，德国队长是诺伊尔，特点是屁股大，也叫臀新，虽然是门将，但防守范围极大，因此被球迷称为“门卫”（门将身兼后卫）。有一个帅气的球员叫罗伊斯，眼睛最大的那个是厄齐尔；笑起来最“二”的是托马斯·穆勒。主教练勒夫，有一个特点，爱吃鼻屎……被称为站在食物链顶端的男人。<\/li><\/ul><figure><noscript><img src=\"https://pic2.zhimg.com/v2-7ae5d1203db1c5f32d9ad7c02e806c39_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"174\" data-thumbnail=\"https://pic2.zhimg.com/v2-7ae5d1203db1c5f32d9ad7c02e806c39_b.jpg\" class=\"content_image\" width=\"264\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='264'%20height='174'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"174\" data-thumbnail=\"https://pic2.zhimg.com/v2-7ae5d1203db1c5f32d9ad7c02e806c39_b.jpg\" class=\"content_image lazy\" width=\"264\" data-actualsrc=\"https://pic2.zhimg.com/v2-7ae5d1203db1c5f32d9ad7c02e806c39_b.gif\"><\/figure><p><br><\/p><ul><li>如果是做法国队的球迷，那很简单，法国一输球，你只要说一句“<b>都怪本泽马<\/b>”，大家都会觉得你是球迷老鸟了。法国球员本泽马有一句名言“都赖本泽马！”<\/li><\/ul><p><br><\/p><ul><li>如果你看到球场上一群黑人跑来跑去，那可能不是非洲球队，也有可能是法国队。看法国队比赛时，需要看场上球员的脸色行事<\/li><\/ul><p><br><\/p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-37e34b04119129e8e807af4a61489f85_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2560\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"2560\" data-original=\"https://pic2.zhimg.com/v2-37e34b04119129e8e807af4a61489f85_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2560'%20height='1920'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2560\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2560\" data-original=\"https://pic2.zhimg.com/v2-37e34b04119129e8e807af4a61489f85_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-37e34b04119129e8e807af4a61489f85_b.jpg\"><\/figure><p><br><\/p><ul><li>遇到尬聊没得说，那就夸德国，肯定不会错，尤其夸克罗斯，更显老鸟本质，因为克罗斯是中场大师，或许从进球和助攻数据上看不出来他的重要性，所以萌新球员可能不会在意他。<\/li><\/ul><p><br><\/p><ul><li>梅西是阿根廷球员，内马尔才是巴西球员。如果想做阿根廷球迷，可以留意一下队里的迪巴拉，因为他真的太帅了。<\/li><\/ul><figure><noscript><img src=\"https://pic2.zhimg.com/v2-799ea3b96865f55867ea1c2432821005_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-799ea3b96865f55867ea1c2432821005_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='720'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-799ea3b96865f55867ea1c2432821005_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-799ea3b96865f55867ea1c2432821005_b.jpg\"><\/figure><p><br><\/p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-80b39893dd05aaf44baa22873a4839b3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-80b39893dd05aaf44baa22873a4839b3_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='728'%20height='404'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-80b39893dd05aaf44baa22873a4839b3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-80b39893dd05aaf44baa22873a4839b3_b.jpg\"><\/figure><p><br><\/p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_b.gif\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"280\" data-thumbnail=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='540'%20height='280'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"280\" data-thumbnail=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e84e599b17ddbab2ec79d9d04bc56df9_b.gif\"><figcaption>男生都扛不住的笑容<\/figcaption><\/figure><p><br><\/p><ul><li>世界杯参赛队伍里，巴西、德国、阿根廷、法国、西班牙是第一梯队的强队，但是西班牙临时换了主帅，世界杯之路有点扑朔迷离。第二梯队葡萄牙、英格兰、比利时、哥伦比亚和乌拉圭。第三梯队有克罗地亚，尼日利亚、瑞士、墨西哥、波兰。<\/li><li>如果你不想太随大流，那么成为克罗地亚的球迷也是个不错的选择，而且他们的球员名字好记，最后一个字是“奇”<\/li><\/ul><figure><noscript><img src=\"https://pic3.zhimg.com/v2-de5ec8d54ed2a06c5b939753498b0f0e_b.jpg\" data-size=\"normal\" data-rawwidth=\"1061\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb\" width=\"1061\" data-original=\"https://pic3.zhimg.com/v2-de5ec8d54ed2a06c5b939753498b0f0e_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1061'%20height='654'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1061\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1061\" data-original=\"https://pic3.zhimg.com/v2-de5ec8d54ed2a06c5b939753498b0f0e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-de5ec8d54ed2a06c5b939753498b0f0e_b.jpg\"><figcaption>克罗地亚大将——小猪佩奇<\/figcaption><\/figure><ul><li>同样的，如果他的名字最后一个字是“松”那就很可能是冰岛球员，如西古拉松、古德蒙德松、芬博阿松、博瓦松、古德蒙德松、特劳斯塔松、贡纳尔松、斯库拉松、西于尔兹松、哈尔弗雷德松、比亚尔纳松。<\/li><\/ul><p><br><\/p><ul><li>这是因为冰岛采用的是古老的父系姓，孩子的姓＝父亲的名字(first name)加上一个后缀，如果是儿子，就加上sson，翻译成中文就是“松”，所以白岩松可能有冰岛血统。<\/li><\/ul><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c5586f64ecb8ed539aeda67f88950978_b.jpg\" data-size=\"normal\" data-rawwidth=\"343\" data-rawheight=\"464\" class=\"content_image\" width=\"343\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='343'%20height='464'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"343\" data-rawheight=\"464\" class=\"content_image lazy\" width=\"343\" data-actualsrc=\"https://pic1.zhimg.com/v2-c5586f64ecb8ed539aeda67f88950978_b.jpg\"><figcaption>嘘~别把我暴露了<\/figcaption><\/figure><p>最后再说一句，如果你的男朋友突然不理你了，不是他心里装了别的姑娘了，只是暂时装了一支球队。<\/p><p><br><\/p><p><b>祝各位观赛愉快~<\/b><\/p><p>世界杯开赛以后，小七会给各位接着介绍一些关于足球、关于世界杯的有趣内容，关注 <\/p><p><a href=\"https://www.zhihu.com/people/7d10f90296ecccbc29ce1f56345a8215\" class=\"internal\">@小七<\/a><\/p><p> 第一时间阅读哦~<\/p><p><br><\/p><p>更多深入解读内容，请参看：<\/p><a href=\"https://zhuanlan.zhihu.com/p/37636525\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-fd53d3978953360d5b27120e189ed3a2_180x120.jpg\" data-image-width=\"524\" data-image-height=\"295\" class=\"internal\">小七：【闲侃世界杯一】德意志战车的前世今生<\/a><a href=\"https://zhuanlan.zhihu.com/p/37773053\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-fd53d3978953360d5b27120e189ed3a2_180x120.jpg\" data-image-width=\"524\" data-image-height=\"295\" class=\"internal\">小七：【闲侃世界杯二】阿根廷篇：梅西和他的大力神杯<\/a><a href=\"https://zhuanlan.zhihu.com/p/37892971\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-fd53d3978953360d5b27120e189ed3a2_180x120.jpg\" data-image-width=\"524\" data-image-height=\"295\" class=\"internal\">小七：【闲侃世界杯三】巴西篇：桑巴军团的五星荣耀<\/a><p>在颜粉的强烈要求下，做了一个<b>闲情向<\/b>番外篇，带各位看看世界杯上的美好肉体：<\/p><p><br><\/p><a href=\"https://zhuanlan.zhihu.com/p/38075111\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-fd53d3978953360d5b27120e189ed3a2_180x120.jpg\" data-image-width=\"524\" data-image-height=\"295\" class=\"internal\">小七：【闲侃世界杯四】番外篇：世界杯观肉指南<\/a>",
+        "comment_count": 339,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 77
+    },
+    {
+      "highlight": {
+        "description": "阿根廷肯定是这届<em>世界杯<\/em>争冠热门球队之一，但问题就在于这支球队后防线上没有太让人放心的组合，所以防守的稳固程度会制约阿根廷在这届<em>世界杯<\/em>的前景。 但他们有梅西，有非常强大的中前场进攻实力",
+        "title": "2018 年俄罗斯<em>世界杯<\/em>你看好哪支球队夺冠？"
+      },
+      "object": {
+        "thumbnail_info": {
+          "count": 0,
+          "type": "thumbnail_info",
+          "thumbnails": []
+        },
+        "relationship": {
+          "is_author": false,
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "excerpt": "阿根廷肯定是这届<em>世界杯<\/em>争冠热门球队之一，但问题就在于这支球队后防线上没有太让人放心的组合，所以防守的稳固程度会制约阿根廷在这届<em>世界杯<\/em>的前景。 但他们有梅西，有非常强大的中前场进攻实力",
+        "created_time": 1527661360,
+        "id": "405080679",
+        "voteup_count": 2369,
+        "attached_info_bytes": "OnAKC3BsYWNlaG9sZGVyEiA1ZjgyYjk2ZDE2ODZiN2M5Y2Y2Mzc3ZGQyOGFkMzVkYxgEIgkxMDM3MjA5ODMqCTQwNTA4MDY3OTIIMjM4OTUyMzU6CTI3NzI4ODA1NkoJ5LiW55WM5p2vUABYAWABmAEA",
+        "author": {
+          "url": "https://api.zhihu.com/people/d70a20114aa8c8b3b17bcf8c9738bdbb",
+          "badge": [
+            {
+              "type": "identity",
+              "description": "体育评述员，说盟签约主播"
+            }
+          ],
+          "avatar_url": "https://pic4.zhimg.com/50/v2-a1e1ea72ea9b49471580a233e866c6b0_s.jpg",
+          "name": "评述员詹俊",
+          "headline": "体育评述员",
+          "url_token": "ping-shu-yuan-zhan-jun",
+          "type": "people",
+          "id": "d70a20114aa8c8b3b17bcf8c9738bdbb"
+        },
+        "url": "https://api.zhihu.com/answers/405080679",
+        "question": {
+          "url": "https://api.zhihu.com/questions/277288056",
+          "type": "question",
+          "id": "277288056",
+          "name": "2018 年俄罗斯<em>世界杯<\/em>你看好哪支球队夺冠？"
+        },
+        "updated_time": 1527661360,
+        "content": "<p>阿根廷肯定是这届世界杯争冠热门球队之一，但问题就在于这支球队后防线上没有太让人放心的组合，所以防守的稳固程度会制约阿根廷在这届世界杯的前景。<\/p><p><br><\/p><p>但他们有梅西，有非常强大的中前场进攻实力，所以如果梅西能给像上届世界杯那样，甚至比上届世界杯有更好发挥的话，那么阿根廷队肯定会出现在争冠热门的行列。<\/p><p><br><\/p><p>但从个人角度来说，这届世界杯没有热门的球队，虽然现在很多博彩公司都会把德国放在最大的热门行列，但我个人觉得，每一支热门夺冠的球队都有各自的缺陷和不足。像德国方面，他们缺少一个像莱万多夫斯基这样强力的中锋，所以在攻坚战方面，德国队的战斗力是要稍稍打上一点点的问号。<\/p><p><br><\/p><p>巴西队也是一样，他在中场实力是很强大的，但在后防线上，他们没有一个巅峰时期的蒂亚戈-席尔瓦，现在中后卫组合米兰达和马尔基尼奥斯还是很不让人放心，虽然难得有一个像阿利松和埃德森这么优秀的门将来把关，但中卫的位置还是让人放心不下的。<\/p><p><br><\/p><p>因为两个边后卫，马塞洛和达尼洛都是攻强守弱的球员，身后的空档还是比较大的，在没有两个很好的中后卫进行实时掩护的话，会变得很让人担心。<\/p><p><br><\/p><p>但是，我从小就喜欢巴西队，跟我父亲一样，是巴西队的球迷，所以在没有更好热门的情况下，我还是希望巴西队能给一雪前耻，能够报回上届世界杯被德国淘汰的七剑之仇，希望巴西队在俄罗斯给大家带来一个大大的惊喜。<\/p>",
+        "comment_count": 496,
+        "type": "answer"
+      },
+      "type": "search_result",
+      "id": 78
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjMSIDVmODJiOTZkMTY4NmI3YzljZjYzNzdkZDI4YWQzNWRjSgnkuJbnlYzmna9QAFgBYAE=",
+    "search_hash_id": "5f82b96d1686b7c9cf6377dd28ad35dc"
+  }
+}

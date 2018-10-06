@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.yqb.webspider.mapper.SinaBlogContentMapper">
+    <resultMap id="BaseResultMap" type="com.yqb.webspider.mapper.model.SinaBlogContent">
+        <id column="_id" property="id" jdbcType="BIGINT"/>
+        <result column="blog_id" property="blogId" jdbcType="VARCHAR"/>
+        <result column="created_at" property="createdAt" jdbcType="VARCHAR"/>
+        <result column="mid" property="mid" jdbcType="BIGINT"/>
+        <result column="idstr" property="idstr" jdbcType="VARCHAR"/>
+        <result column="text" property="text" jdbcType="VARCHAR"/>
+        <result column="source" property="source" jdbcType="VARCHAR"/>
+        <result column="favorited" property="favorited" jdbcType="BIT"/>
+        <result column="truncated" property="truncated" jdbcType="BIT"/>
+        <result column="thumbnail_pic" property="thumbnailPic" jdbcType="VARCHAR"/>
+        <result column="bmiddle_pic" property="bmiddlePic" jdbcType="VARCHAR"/>
+        <result column="original_pic" property="originalPic" jdbcType="VARCHAR"/>
+        <result column="geo" property="geo" jdbcType="VARCHAR"/>
+        <result column="user_id" property="userId" jdbcType="BIGINT"/>
+        <result column="retweeted_id" property="retweetedId" jdbcType="BIGINT"/>
+        <result column="reposts_count" property="repostsCount" jdbcType="INTEGER"/>
+        <result column="comments_count" property="commentsCount" jdbcType="INTEGER"/>
+        <result column="attitudes_count" property="attitudesCount" jdbcType="INTEGER"/>
+        <result column="visible" property="visible" jdbcType="VARCHAR"/>
+        <result column="create_by" property="createBy" jdbcType="VARCHAR"/>
+        <result column="create_time" property="createTime" jdbcType="TIMESTAMP"/>
+        <result column="update_by" property="updateBy" jdbcType="VARCHAR"/>
+        <result column="update_time" property="updateTime" jdbcType="TIMESTAMP"/>
+    </resultMap>
+    <sql id="Example_Where_Clause">
+        <where>
+            <foreach collection="oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" suffix=")" prefixOverrides="and">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach collection="criterion.value" item="listItem" open="(" close=")"
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Update_By_Example_Where_Clause">
+        <where>
+            <foreach collection="example.oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" suffix=")" prefixOverrides="and">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach collection="criterion.value" item="listItem" open="(" close=")"
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Base_Column_List">
+        _id, blog_id, created_at, mid, idstr, text, source, favorited, truncated, thumbnail_pic,
+        bmiddle_pic, original_pic, geo, user_id, retweeted_id, reposts_count, comments_count,
+        attitudes_count, visible, create_by, create_time, update_by, update_time
+    </sql>
+    <select id="selectByExample" resultMap="BaseResultMap"
+            parameterType="com.yqb.webspider.mapper.model.SinaBlogContentExample">
+        select
+        <if test="distinct">
+            distinct
+        </if>
+        <include refid="Base_Column_List"/>
+        from sina_blog_content
+        <if test="_parameter != null">
+            <include refid="Example_Where_Clause"/>
+        </if>
+        <if test="orderByClause != null">
+            order by ${orderByClause}
+        </if>
+    </select>
+    <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long">
+        select
+        <include refid="Base_Column_List"/>
+        from sina_blog_content
+        where _id = #{id,jdbcType=BIGINT}
+    </select>
+    <delete id="deleteByPrimaryKey" parameterType="java.lang.Long">
+        delete from sina_blog_content
+        where _id = #{id,jdbcType=BIGINT}
+    </delete>
+    <delete id="deleteByExample" parameterType="com.yqb.webspider.mapper.model.SinaBlogContentExample">
+        delete from sina_blog_content
+        <if test="_parameter != null">
+            <include refid="Example_Where_Clause"/>
+        </if>
+    </delete>
+    <insert id="insert" parameterType="com.yqb.webspider.mapper.model.SinaBlogContent">
+        insert into sina_blog_content (_id, blog_id, created_at,
+                                       mid, idstr, text, source,
+                                       favorited, truncated, thumbnail_pic,
+                                       bmiddle_pic, original_pic, geo,
+                                       user_id, retweeted_id, reposts_count,
+                                       comments_count, attitudes_count, visible,
+                                       create_by, create_time, update_by,
+                                       update_time)
+        values (#{id,jdbcType=BIGINT}, #{blogId,jdbcType=VARCHAR}, #{createdAt,jdbcType=VARCHAR},
+                                       #{mid,jdbcType=BIGINT}, #{idstr,jdbcType=VARCHAR}, #{text,jdbcType=VARCHAR},
+                                       #{source,jdbcType=VARCHAR},
+                                       #{favorited,jdbcType=BIT}, #{truncated,jdbcType=BIT},
+                                       #{thumbnailPic,jdbcType=VARCHAR},
+                                       #{bmiddlePic,jdbcType=VARCHAR}, #{originalPic,jdbcType=VARCHAR},
+                                                                       #{geo,jdbcType=VARCHAR},
+                                                                       #{userId,jdbcType=BIGINT},
+                                                                       #{retweetedId,jdbcType=BIGINT},
+                                                                       #{repostsCount,jdbcType=INTEGER},
+                                                                       #{commentsCount,jdbcType=INTEGER},
+                                                                       #{attitudesCount,jdbcType=INTEGER},
+                                                                       #{visible,jdbcType=VARCHAR},
+                                                                       #{createBy,jdbcType=VARCHAR},
+                                                                       #{createTime,jdbcType=TIMESTAMP},
+                #{updateBy,jdbcType=VARCHAR},
+                #{updateTime,jdbcType=TIMESTAMP})
+    </insert>
+    <insert id="insertSelective" parameterType="com.yqb.webspider.mapper.model.SinaBlogContent">
+        insert into sina_blog_content
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                _id,
+            </if>
+            <if test="blogId != null">
+                blog_id,
+            </if>
+            <if test="createdAt != null">
+                created_at,
+            </if>
+            <if test="mid != null">
+                mid,
+            </if>
+            <if test="idstr != null">
+                idstr,
+            </if>
+            <if test="text != null">
+                text,
+            </if>
+            <if test="source != null">
+                source,
+            </if>
+            <if test="favorited != null">
+                favorited,
+            </if>
+            <if test="truncated != null">
+                truncated,
+            </if>
+            <if test="thumbnailPic != null">
+                thumbnail_pic,
+            </if>
+            <if test="bmiddlePic != null">
+                bmiddle_pic,
+            </if>
+            <if test="originalPic != null">
+                original_pic,
+            </if>
+            <if test="geo != null">
+                geo,
+            </if>
+            <if test="userId != null">
+                user_id,
+            </if>
+            <if test="retweetedId != null">
+                retweeted_id,
+            </if>
+            <if test="repostsCount != null">
+                reposts_count,
+            </if>
+            <if test="commentsCount != null">
+                comments_count,
+            </if>
+            <if test="attitudesCount != null">
+                attitudes_count,
+            </if>
+            <if test="visible != null">
+                visible,
+            </if>
+            <if test="createBy != null">
+                create_by,
+            </if>
+            <if test="createTime != null">
+                create_time,
+            </if>
+            <if test="updateBy != null">
+                update_by,
+            </if>
+            <if test="updateTime != null">
+                update_time,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                #{id,jdbcType=BIGINT},
+            </if>
+            <if test="blogId != null">
+                #{blogId,jdbcType=VARCHAR},
+            </if>
+            <if test="createdAt != null">
+                #{createdAt,jdbcType=VARCHAR},
+            </if>
+            <if test="mid != null">
+                #{mid,jdbcType=BIGINT},
+            </if>
+            <if test="idstr != null">
+                #{idstr,jdbcType=VARCHAR},
+            </if>
+            <if test="text != null">
+                #{text,jdbcType=VARCHAR},
+            </if>
+            <if test="source != null">
+                #{source,jdbcType=VARCHAR},
+            </if>
+            <if test="favorited != null">
+                #{favorited,jdbcType=BIT},
+            </if>
+            <if test="truncated != null">
+                #{truncated,jdbcType=BIT},
+            </if>
+            <if test="thumbnailPic != null">
+                #{thumbnailPic,jdbcType=VARCHAR},
+            </if>
+            <if test="bmiddlePic != null">
+                #{bmiddlePic,jdbcType=VARCHAR},
+            </if>
+            <if test="originalPic != null">
+                #{originalPic,jdbcType=VARCHAR},
+            </if>
+            <if test="geo != null">
+                #{geo,jdbcType=VARCHAR},
+            </if>
+            <if test="userId != null">
+                #{userId,jdbcType=BIGINT},
+            </if>
+            <if test="retweetedId != null">
+                #{retweetedId,jdbcType=BIGINT},
+            </if>
+            <if test="repostsCount != null">
+                #{repostsCount,jdbcType=INTEGER},
+            </if>
+            <if test="commentsCount != null">
+                #{commentsCount,jdbcType=INTEGER},
+            </if>
+            <if test="attitudesCount != null">
+                #{attitudesCount,jdbcType=INTEGER},
+            </if>
+            <if test="visible != null">
+                #{visible,jdbcType=VARCHAR},
+            </if>
+            <if test="createBy != null">
+                #{createBy,jdbcType=VARCHAR},
+            </if>
+            <if test="createTime != null">
+                #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="updateBy != null">
+                #{updateBy,jdbcType=VARCHAR},
+            </if>
+            <if test="updateTime != null">
+                #{updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </trim>
+    </insert>
+    <select id="countByExample" parameterType="com.yqb.webspider.mapper.model.SinaBlogContentExample"
+            resultType="java.lang.Integer">
+        select count(*) from sina_blog_content
+        <if test="_parameter != null">
+            <include refid="Example_Where_Clause"/>
+        </if>
+    </select>
+    <select id="count" resultType="java.lang.Long">
+        select count(0)
+        from sina_blog_content
+    </select>
+    <update id="updateByExampleSelective" parameterType="map">
+        update sina_blog_content
+        <set>
+            <if test="record.id != null">
+                _id = #{record.id,jdbcType=BIGINT},
+            </if>
+            <if test="record.blogId != null">
+                blog_id = #{record.blogId,jdbcType=VARCHAR},
+            </if>
+            <if test="record.createdAt != null">
+                created_at = #{record.createdAt,jdbcType=VARCHAR},
+            </if>
+            <if test="record.mid != null">
+                mid = #{record.mid,jdbcType=BIGINT},
+            </if>
+            <if test="record.idstr != null">
+                idstr = #{record.idstr,jdbcType=VARCHAR},
+            </if>
+            <if test="record.text != null">
+                text = #{record.text,jdbcType=VARCHAR},
+            </if>
+            <if test="record.source != null">
+                source = #{record.source,jdbcType=VARCHAR},
+            </if>
+            <if test="record.favorited != null">
+                favorited = #{record.favorited,jdbcType=BIT},
+            </if>
+            <if test="record.truncated != null">
+                truncated = #{record.truncated,jdbcType=BIT},
+            </if>
+            <if test="record.thumbnailPic != null">
+                thumbnail_pic = #{record.thumbnailPic,jdbcType=VARCHAR},
+            </if>
+            <if test="record.bmiddlePic != null">
+                bmiddle_pic = #{record.bmiddlePic,jdbcType=VARCHAR},
+            </if>
+            <if test="record.originalPic != null">
+                original_pic = #{record.originalPic,jdbcType=VARCHAR},
+            </if>
+            <if test="record.geo != null">
+                geo = #{record.geo,jdbcType=VARCHAR},
+            </if>
+            <if test="record.userId != null">
+                user_id = #{record.userId,jdbcType=BIGINT},
+            </if>
+            <if test="record.retweetedId != null">
+                retweeted_id = #{record.retweetedId,jdbcType=BIGINT},
+            </if>
+            <if test="record.repostsCount != null">
+                reposts_count = #{record.repostsCount,jdbcType=INTEGER},
+            </if>
+            <if test="record.commentsCount != null">
+                comments_count = #{record.commentsCount,jdbcType=INTEGER},
+            </if>
+            <if test="record.attitudesCount != null">
+                attitudes_count = #{record.attitudesCount,jdbcType=INTEGER},
+            </if>
+            <if test="record.visible != null">
+                visible = #{record.visible,jdbcType=VARCHAR},
+            </if>
+            <if test="record.createBy != null">
+                create_by = #{record.createBy,jdbcType=VARCHAR},
+            </if>
+            <if test="record.createTime != null">
+                create_time = #{record.createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="record.updateBy != null">
+                update_by = #{record.updateBy,jdbcType=VARCHAR},
+            </if>
+            <if test="record.updateTime != null">
+                update_time = #{record.updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </set>
+        <if test="_parameter != null">
+            <include refid="Update_By_Example_Where_Clause"/>
+        </if>
+    </update>
+    <update id="updateByExample" parameterType="map">
+        update sina_blog_content
+        set _id = #{record.id,jdbcType=BIGINT},
+        blog_id = #{record.blogId,jdbcType=VARCHAR},
+        created_at = #{record.createdAt,jdbcType=VARCHAR},
+        mid = #{record.mid,jdbcType=BIGINT},
+        idstr = #{record.idstr,jdbcType=VARCHAR},
+        text = #{record.text,jdbcType=VARCHAR},
+        source = #{record.source,jdbcType=VARCHAR},
+        favorited = #{record.favorited,jdbcType=BIT},
+        truncated = #{record.truncated,jdbcType=BIT},
+        thumbnail_pic = #{record.thumbnailPic,jdbcType=VARCHAR},
+        bmiddle_pic = #{record.bmiddlePic,jdbcType=VARCHAR},
+        original_pic = #{record.originalPic,jdbcType=VARCHAR},
+        geo = #{record.geo,jdbcType=VARCHAR},
+        user_id = #{record.userId,jdbcType=BIGINT},
+        retweeted_id = #{record.retweetedId,jdbcType=BIGINT},
+        reposts_count = #{record.repostsCount,jdbcType=INTEGER},
+        comments_count = #{record.commentsCount,jdbcType=INTEGER},
+        attitudes_count = #{record.attitudesCount,jdbcType=INTEGER},
+        visible = #{record.visible,jdbcType=VARCHAR},
+        create_by = #{record.createBy,jdbcType=VARCHAR},
+        create_time = #{record.createTime,jdbcType=TIMESTAMP},
+        update_by = #{record.updateBy,jdbcType=VARCHAR},
+        update_time = #{record.updateTime,jdbcType=TIMESTAMP}
+        <if test="_parameter != null">
+            <include refid="Update_By_Example_Where_Clause"/>
+        </if>
+    </update>
+    <update id="updateByPrimaryKeySelective" parameterType="com.yqb.webspider.mapper.model.SinaBlogContent">
+        update sina_blog_content
+        <set>
+            <if test="blogId != null">
+                blog_id = #{blogId,jdbcType=VARCHAR},
+            </if>
+            <if test="createdAt != null">
+                created_at = #{createdAt,jdbcType=VARCHAR},
+            </if>
+            <if test="mid != null">
+                mid = #{mid,jdbcType=BIGINT},
+            </if>
+            <if test="idstr != null">
+                idstr = #{idstr,jdbcType=VARCHAR},
+            </if>
+            <if test="text != null">
+                text = #{text,jdbcType=VARCHAR},
+            </if>
+            <if test="source != null">
+                source = #{source,jdbcType=VARCHAR},
+            </if>
+            <if test="favorited != null">
+                favorited = #{favorited,jdbcType=BIT},
+            </if>
+            <if test="truncated != null">
+                truncated = #{truncated,jdbcType=BIT},
+            </if>
+            <if test="thumbnailPic != null">
+                thumbnail_pic = #{thumbnailPic,jdbcType=VARCHAR},
+            </if>
+            <if test="bmiddlePic != null">
+                bmiddle_pic = #{bmiddlePic,jdbcType=VARCHAR},
+            </if>
+            <if test="originalPic != null">
+                original_pic = #{originalPic,jdbcType=VARCHAR},
+            </if>
+            <if test="geo != null">
+                geo = #{geo,jdbcType=VARCHAR},
+            </if>
+            <if test="userId != null">
+                user_id = #{userId,jdbcType=BIGINT},
+            </if>
+            <if test="retweetedId != null">
+                retweeted_id = #{retweetedId,jdbcType=BIGINT},
+            </if>
+            <if test="repostsCount != null">
+                reposts_count = #{repostsCount,jdbcType=INTEGER},
+            </if>
+            <if test="commentsCount != null">
+                comments_count = #{commentsCount,jdbcType=INTEGER},
+            </if>
+            <if test="attitudesCount != null">
+                attitudes_count = #{attitudesCount,jdbcType=INTEGER},
+            </if>
+            <if test="visible != null">
+                visible = #{visible,jdbcType=VARCHAR},
+            </if>
+            <if test="createBy != null">
+                create_by = #{createBy,jdbcType=VARCHAR},
+            </if>
+            <if test="createTime != null">
+                create_time = #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="updateBy != null">
+                update_by = #{updateBy,jdbcType=VARCHAR},
+            </if>
+            <if test="updateTime != null">
+                update_time = #{updateTime,jdbcType=TIMESTAMP},
+            </if>
+        </set>
+        where _id = #{id,jdbcType=BIGINT}
+    </update>
+    <update id="updateByPrimaryKey" parameterType="com.yqb.webspider.mapper.model.SinaBlogContent">
+        update sina_blog_content
+        set blog_id         = #{blogId,jdbcType=VARCHAR},
+            created_at      = #{createdAt,jdbcType=VARCHAR},
+            mid             = #{mid,jdbcType=BIGINT},
+            idstr           = #{idstr,jdbcType=VARCHAR},
+            text            = #{text,jdbcType=VARCHAR},
+            source          = #{source,jdbcType=VARCHAR},
+            favorited       = #{favorited,jdbcType=BIT},
+            truncated       = #{truncated,jdbcType=BIT},
+            thumbnail_pic   = #{thumbnailPic,jdbcType=VARCHAR},
+            bmiddle_pic     = #{bmiddlePic,jdbcType=VARCHAR},
+            original_pic    = #{originalPic,jdbcType=VARCHAR},
+            geo             = #{geo,jdbcType=VARCHAR},
+            user_id         = #{userId,jdbcType=BIGINT},
+            retweeted_id    = #{retweetedId,jdbcType=BIGINT},
+            reposts_count   = #{repostsCount,jdbcType=INTEGER},
+            comments_count  = #{commentsCount,jdbcType=INTEGER},
+            attitudes_count = #{attitudesCount,jdbcType=INTEGER},
+            visible         = #{visible,jdbcType=VARCHAR},
+            create_by       = #{createBy,jdbcType=VARCHAR},
+            create_time     = #{createTime,jdbcType=TIMESTAMP},
+            update_by       = #{updateBy,jdbcType=VARCHAR},
+            update_time     = #{updateTime,jdbcType=TIMESTAMP}
+        where _id = #{id,jdbcType=BIGINT}
+    </update>
+</mapper>
